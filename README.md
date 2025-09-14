@@ -111,6 +111,9 @@ sudo apt-get install gz-ionic</pre>
 To launch, run
 <pre>gz sim shapes.sdf</pre>
 
+After lauch, the Gazebo sim interfsce should look like this
+![Gazebo Sim Interface](https://github.com/Chukwuebuka1310/Workshop-Application-Installation/blob/6f69e0c997ae4e4d1860aef77865a4b9ba38d6b2/Gazebo%20sim%20interface.jpeg)
+
 Installation complete. 🎉🎉🎉
 
 Note: Its prefered that you run the snippet line by line, so that you can detect any issue during the installation.
