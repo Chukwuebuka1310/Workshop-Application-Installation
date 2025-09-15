@@ -119,7 +119,7 @@ Installation complete. 🎉🎉🎉
 Note: Its prefered that you run the snippet line by line, so that you can detect any issue during the installation.
 
 ### INSTALLATION 3: RViz
-Due to the fact that we installed the full package of ROS2, RViz has been installed.
+Yet to install.
 
 
 🎉🎉🎉🎉🎉CONGRATULATIONS, YOU HAVE SUCCESSFULLY INSTALLED ALL REQUIRED APPLICATION FOR THE WORKSHOP 🎉🎉🎉🎉🎉.
